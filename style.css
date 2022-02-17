@@ -1,0 +1,39 @@
+body{
+background-size:cover;
+}
+
+.heading{
+font-size:40;
+font-family: 'Festive', cursive;
+width:80%;
+box-shadow:5px 13px 17px plum;
+background-color:rgb(250, 209, 250);
+}   
+
+.note{
+font-size:33;
+font-family: 'Syne Tactile', cursive;
+color:rgb(164, 191, 216);
+}
+
+.footer{
+position:fixed;
+bottom:0;
+width:100%;
+box-shadow:5px 5px 5px 10px lightpink;
+background-color:lightsalmon;
+color:aliceblue;
+font-size:larger;
+font-weight:bolder;
+text-align:center;
+}
+
+canvas{
+border:5px solid aliceblue;
+border-radius:20px;
+box-shadow:5px 5px 7px #f6d7ff;
+}
+
+video{
+margin-left: 70;
+}
